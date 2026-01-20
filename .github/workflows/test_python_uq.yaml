@@ -16,6 +16,6 @@ jobs:
         module load Biopython
         which python
         module load Boost.Python
-        module load wxPython2
+        module load wxPython
         python uq-in-python.py
       shell: bash
